@@ -17,6 +17,10 @@ The interactive dashboard offers the following functionalities:
 
 • **Tweet Count Visualization by Sentiment**: An interactive chart shows the overall sentiment distribution, with the option to view data as either a bar chart or pie chart.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c307285f-980c-42b8-babe-19f6af357d13" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7b07d188-5743-4bf3-8ab3-bb39a1c34407" />
+
 • **Geographic Distribution of Tweets**: A map shows the locations from where users tweeted, with major clusters identified, for example, in California, the Midwest, and near Manhattan/New York.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2805b98c-60c4-4c36-8d42-b2d613da65cb" />
@@ -24,7 +28,11 @@ The interactive dashboard offers the following functionalities:
 
 • **Airline Popularity and Sentiment Breakdown**: Allows users to see which airlines have been tweeted about the most. Additionally, sentiment can be broken down for specific airlines (for example, by clicking on United, you can see that most tweets are negative despite its popularity) and compare multiple airlines.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccad7438-536a-4f5b-bcbc-6e7d3ed2cbcc" />
+
 • **Word Cloud by Sentiment**: A visualization where the font size of a word indicates its frequency in the dataset, broken down by sentiment.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf19b7ef-8f37-4184-ab59-9b8404ee5456" />
 
 • **Smart Caching Mechanism**: Uses a simple Streamlit function decorator to cache data, improving performance by avoiding reloading and repeating calculations unless input data is modified.
 
