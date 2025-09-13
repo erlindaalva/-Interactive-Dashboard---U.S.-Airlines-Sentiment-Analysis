@@ -53,3 +53,10 @@ The web application was built using Streamlit, which enabled creating all the in
 To use this dashboard, it can be run on the company server or through a VPN. Users can interact with different components, such as clicking on tweet examples, toggling between chart types, selecting airlines for detailed analysis, and exploring the word cloud.
 
 This project is inspired by the vision of making machine learning and data science tool development as easy as writing Python scripts. Streamlit demonstrates that this is certainly possible, facilitating the creation of interactive and effective dashboards with minimal code.
+
+📊 Goal  
+Present an interactive dashboard designed to analyze the "pain points" of customers flying with various U.S. domestic airlines.  
+The project aims to explore the aviation market, understand customer sentiment, and provide insights to stakeholders such as marketing managers, communications teams, press departments, and investment decision-makers.  
+
+👩‍💻 Author  
+Developed by **Erlinda Alvarado** as a practice project in Python, Data Analysis, and Business Intelligence.  
