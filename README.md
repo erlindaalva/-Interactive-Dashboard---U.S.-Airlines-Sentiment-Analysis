@@ -19,6 +19,9 @@ The interactive dashboard offers the following functionalities:
 
 • **Geographic Distribution of Tweets**: A map shows the locations from where users tweeted, with major clusters identified, for example, in California, the Midwest, and near Manhattan/New York.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2805b98c-60c4-4c36-8d42-b2d613da65cb" />
+
+
 • **Airline Popularity and Sentiment Breakdown**: Allows users to see which airlines have been tweeted about the most. Additionally, sentiment can be broken down for specific airlines (for example, by clicking on United, you can see that most tweets are negative despite its popularity) and compare multiple airlines.
 
 • **Word Cloud by Sentiment**: A visualization where the font size of a word indicates its frequency in the dataset, broken down by sentiment.
